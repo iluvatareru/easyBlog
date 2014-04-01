@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/event-dispatcher": "dev-master",
+        "symfony/console": "dev-master"
+    }
+}
